@@ -31,6 +31,10 @@ header {
     height: auto;
 }
 .about{
-    text-align: center;
-    color: lightpink;
+    background-color: rosybrown;
+    color: ivory;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
 }
